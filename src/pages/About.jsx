@@ -1,7 +1,7 @@
 //pages/About.jsx
 import React from 'react';
 import '../styles/About.css';
-import Map from '../components/Map';
+import Map from '../Components/Map';
 
 
 const About = () => {
